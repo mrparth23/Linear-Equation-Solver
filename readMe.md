@@ -4,7 +4,7 @@ This project can be used to solve the system equation Ax = B and will generate a
 
 ## Installation
 
-Use the GNU Compiler Collection [Mingw-GCC]https://osdn.net/projects/mingw/releases/) to compile cpp files and required dependencies.
+Use the GNU Compiler Collection [Mingw-GCC](https://osdn.net/projects/mingw/releases/) to compile cpp files and required dependencies.
 
 ## Usage
 
